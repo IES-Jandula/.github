@@ -1,4 +1,5 @@
-#¡Bienvenidos al perfil de GitHub del IES Jándula! 👋
+# ¡Bienvenidos al perfil de GitHub del IES Jándula! 👋
+
 Somos un instituto dedicado a impartir los ciclos de Desarrollo de Aplicaciones Multiplataforma (DAM) y Desarrollo de Aplicaciones Web (DAW). En este espacio, compartimos los repositorios de proyectos internos realizados por nuestro alumnado.
 
 Sobre nosotros
